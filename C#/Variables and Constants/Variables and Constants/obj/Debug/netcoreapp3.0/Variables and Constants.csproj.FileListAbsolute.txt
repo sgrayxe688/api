@@ -1,0 +1,11 @@
+C:\Users\Ethan Gray\Desktop\Code\C#\Variables and Constants\Variables and Constants\obj\Debug\netcoreapp3.0\Variables and Constants.csprojAssemblyReference.cache
+C:\Users\Ethan Gray\Desktop\Code\C#\Variables and Constants\Variables and Constants\obj\Debug\netcoreapp3.0\Variables and Constants.AssemblyInfoInputs.cache
+C:\Users\Ethan Gray\Desktop\Code\C#\Variables and Constants\Variables and Constants\obj\Debug\netcoreapp3.0\Variables and Constants.AssemblyInfo.cs
+C:\Users\Ethan Gray\Desktop\Code\C#\Variables and Constants\Variables and Constants\bin\Debug\netcoreapp3.0\Variables and Constants.exe
+C:\Users\Ethan Gray\Desktop\Code\C#\Variables and Constants\Variables and Constants\bin\Debug\netcoreapp3.0\Variables and Constants.deps.json
+C:\Users\Ethan Gray\Desktop\Code\C#\Variables and Constants\Variables and Constants\bin\Debug\netcoreapp3.0\Variables and Constants.runtimeconfig.json
+C:\Users\Ethan Gray\Desktop\Code\C#\Variables and Constants\Variables and Constants\bin\Debug\netcoreapp3.0\Variables and Constants.runtimeconfig.dev.json
+C:\Users\Ethan Gray\Desktop\Code\C#\Variables and Constants\Variables and Constants\bin\Debug\netcoreapp3.0\Variables and Constants.dll
+C:\Users\Ethan Gray\Desktop\Code\C#\Variables and Constants\Variables and Constants\bin\Debug\netcoreapp3.0\Variables and Constants.pdb
+C:\Users\Ethan Gray\Desktop\Code\C#\Variables and Constants\Variables and Constants\obj\Debug\netcoreapp3.0\Variables and Constants.dll
+C:\Users\Ethan Gray\Desktop\Code\C#\Variables and Constants\Variables and Constants\obj\Debug\netcoreapp3.0\Variables and Constants.pdb
